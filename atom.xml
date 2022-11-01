@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>暮冬博客</title>
+  
+  <subtitle>美好的事情正在发生</subtitle>
+  <link href="https://www.mudong.cc/atom.xml" rel="self"/>
+  
+  <link href="https://www.mudong.cc/"/>
+  <updated>2022-11-01T09:57:14.430Z</updated>
+  <id>https://www.mudong.cc/</id>
+  
+  <author>
+    <name>Mu Dong</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://www.mudong.cc/2022/11/01/hello-world/"/>
+    <id>https://www.mudong.cc/2022/11/01/hello-world/</id>
+    <published>2022-11-01T08:35:23.072Z</published>
+    <updated>2022-11-01T09:57:14.430Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    <category term="生活" scheme="https://www.mudong.cc/categories/%E7%94%9F%E6%B4%BB/"/>
+    
+    
+    <category term="代码" scheme="https://www.mudong.cc/tags/%E4%BB%A3%E7%A0%81/"/>
+    
+    <category term="博客" scheme="https://www.mudong.cc/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
+  </entry>
+  
+</feed>
